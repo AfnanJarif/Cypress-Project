@@ -1,0 +1,25 @@
+{
+  "name": "afnan",
+  "email": "afnan@gm.com",
+  "password":"1234",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "url":{
+    "login":"login"
+  },
+  "article":{
+    "title":"Article1",
+    "description":"This is article 1",
+    "body":"Afnan is a Good boy. He likes playing basketball",
+    "tag":"a1"
+  },
+  
+    
+  "tags": [
+    "YouTube",
+    "Cypress",
+    "Automation",
+    "Testing",
+    "artham"
+]
+
+}
