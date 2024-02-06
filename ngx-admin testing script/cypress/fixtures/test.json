@@ -1,0 +1,14 @@
+{
+    "gridForm":{
+        "email":"afnan@gmail.com",
+        "password":"1234"
+    },
+    "url":{
+        "toastUrl":"modal-overlays/toastr",
+        "formUrl":"forms/layouts",
+        "datePickerUrl":"forms/datepicker",
+        "tablePage":"tables/smart-table"
+        
+    },
+    "theme":"Cosmic"
+}

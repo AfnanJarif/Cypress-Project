@@ -1,0 +1,21 @@
+{
+    "BaseUrl":"https://www.saucedemo.com/v1/index.html",
+    "homeUrl":"inventory.html",
+    "cartUrl":"cart.html",
+    "checkOutFirstStepUrl":"checkout-step-one.html",
+    "CheckoutSecondStepUrl":"checkout-step-two.html",
+    "finishUrl":"checkout-complete.html",
+    "user":{
+        "standard_user":"standard_user",
+        "firstName":"Standard",
+        "lastName":"User",
+        "zipCode":"1200"
+
+    },
+    "password":"secret_sauce",
+    "item":{
+        "item1Price":"7.99",
+        "item2Price":"9.99",
+        "cartItemCount":"2"
+    }
+}

@@ -1,0 +1,5 @@
+There can be improvement to add picture of the added items
+
+Who is login or my profile section is not present 
+
+In topNavbar logo should be clickable and navigate to home/inventory page
